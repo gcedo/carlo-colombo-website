@@ -1,0 +1,11 @@
+.pswp-thumbnails {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.pswp-thumbnail {
+  width: 190px;
+  margin-bottom: 25px;
+  cursor: pointer;
+}
