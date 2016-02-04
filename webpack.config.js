@@ -2,7 +2,10 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-  entry: path.join(process.cwd(), 'client-render.js'),
+  entry: {
+    app: path.join(process.cwd(), 'client-render.js'),
+    vendor: ['react-photoswipe'],
+  },
 
   output: {
     path: './public/',
@@ -26,5 +29,6 @@ module.exports = {
     }),
     new webpack.optimize.OccurenceOrderPlugin(),
     new webpack.optimize.DedupePlugin(),
+    new webpack.optimize.CommonsChunkPlugin('vendor', 'vendor.bundle.js', Infinity),
   ],
 };
