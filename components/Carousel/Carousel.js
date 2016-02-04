@@ -16,12 +16,10 @@ class Carousel extends React.Component {
               active
               imgUri="img/carousel/casa_in_collina.jpg"
               title="La nostra casa in collina"
-              caption="Molte immagini attraversano la memoria. Non tutte, però ci impressionano. Quando ciò accade, rincorro le parole."
             />
             <CarouselItem
               imgUri="img/carousel/IMG_2597.png"
               title="Il sogno spezzato"
-              caption="Il giornalista Vanni Cornero intervista Carlo Colombo durante la rassegna Passepartout en hiver"
             />
             <CarouselItem
               imgUri="img/carousel/fiori.jpg"

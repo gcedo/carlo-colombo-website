@@ -38,7 +38,8 @@ const About = () => (
       <div className="col-xs-12">
         <h4>Contatti</h4>
         <p>
-          Se sei interessato a leggere i miei lavori, puoi contattarmi a <a href="mailto:someone@yoursite.com?subject=Mail from Our Site">carlo@sito.it</a>
+          Se ti interessano i miei lavori o se
+          semplicemente hai qualche curiosità, puoi scrivermi a <a href="mailto:carlocolombo1957@gmail.com">carlocolombo1957@gmail.com</a>
         </p>
       </div>
     </div>
