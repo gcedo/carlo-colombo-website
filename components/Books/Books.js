@@ -30,7 +30,7 @@ Books.defaultProps = {
       cover: '/img/covers/il_sogno_spezzato.png',
       title: 'Il sogno spezzato',
       quote: 'Alto, vigoroso, col suo bel volto fiero illuminato dagli azzurri occhi buoni, infinitamente dolci.',
-      description: 'La storia dell\'aviatore Enrico Cammarota Adorno, ingegnere e pionere del volo partito da Rocca d\'Arazzo e le vicende della famiglia del nonno, Senatore Giuseppe Cornero: sullo sfondo lo scenario di un\'Italia post risorgimentale e agli albori dell\'aviazione.',
+      description: 'La storia dell\'aviatore Enrico Cammarota Adorno, ingegnere e pioniere del volo partito da Rocca d\'Arazzo e le vicende della famiglia del nonno, Senatore Giuseppe Cornero. Sullo sfondo lo scenario di un\'Italia post risorgimentale e agli albori dell\'aviazione.',
       preview: 'books/il_sogno_spezzato.pdf',
     },
 
@@ -38,7 +38,7 @@ Books.defaultProps = {
       cover: '/img/covers/la_nostra_casa_in_collina.jpg',
       title: 'La nostra casa in collina',
       quote: 'Certe case, hanno più storia delle altre. Possiedono un loro battito, un respiro lento, profondo.',
-      description: 'Provo a descrivere, a raccontare sensazioni, rumori, profumi, odori, volti che mi hanno toccato, nell\'intimo, hanno avuto una parte nel mio vissuto.',
+      description: 'Provo a descrivere, a raccontare sensazioni, rumori, profumi, odori, volti che mi hanno toccato nell\'intimo, hanno avuto una parte nel mio vissuto.',
       preview: 'books/la_nostra_casa_in_collina.pdf',
     },
   ],

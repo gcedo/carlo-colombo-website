@@ -16,7 +16,7 @@ const News = () => (
       id="20160202"
       title="La nostra casa in collina"
       imgUri="img/news/casa_in_collina_fronte.jpg"
-      text="Le poesie  non hanno fretta, nessuna fretta, di ritrovarsi, in una lettera d’alfabeto, in una frase scritta. Possono cullarsi, rimanere sospese, accarezzare  le nostre emozioni."
+      text="Le poesie  non hanno fretta, nessuna fretta, di ritrovarsi in una lettera d’alfabeto, in una frase scritta. Possono cullarsi, rimanere sospese, accarezzare  le nostre emozioni."
     />
     <hr />
     <NewsItem
