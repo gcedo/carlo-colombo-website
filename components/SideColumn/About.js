@@ -39,7 +39,8 @@ const About = () => (
         <h4>Contatti</h4>
         <p>
           Se ti interessano i miei lavori o se
-          semplicemente hai qualche curiosità, puoi scrivermi a <a href="mailto:carlocolombo1957@gmail.com">carlocolombo1957@gmail.com</a>
+          semplicemente hai qualche curiosità,
+          puoi scrivermi a <a href="mailto:&#099;&#097;&#114;&#108;&#111;&#099;&#111;&#108;&#111;&#109;&#098;&#111;&#049;&#057;&#053;&#055;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">carlocolombo1957 at gmail.com</a>
         </p>
       </div>
     </div>

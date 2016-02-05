@@ -10,20 +10,41 @@ class Carousel extends React.Component {
             <li data-target="#works-carousel" data-slide-to="0" className="active"></li>
             <li data-target="#works-carousel" data-slide-to="1"></li>
             <li data-target="#works-carousel" data-slide-to="2"></li>
+            <li data-target="#works-carousel" data-slide-to="3"></li>
           </ol>
           <div className="carousel-inner" role="listbox">
             <CarouselItem
               active
-              imgUri="img/carousel/casa_in_collina.jpg"
-              title="La nostra casa in collina"
-            />
-            <CarouselItem
-              imgUri="img/carousel/IMG_2597.png"
-              title="Il sogno spezzato"
-            />
-            <CarouselItem
               imgUri="img/carousel/fiori.jpg"
-              title="La nostra casa in collina"
+              title={<span>Una nuova vita, è in te.</span>}
+            />
+            <CarouselItem
+              imgUri="img/carousel/fiori_2.jpg"
+              title={
+                <p>
+                  Le parole, non servivano,<br/>
+                  sentivamo i battiti dei nostri cuori.
+                </p>
+              }
+            />
+            <CarouselItem
+              imgUri="img/carousel/fiori_3.jpg"
+              title={
+                <p>
+                  Un sole,<br/>
+                  che riesce ancora a scaldare.
+                </p>
+              }
+            />
+            <CarouselItem
+              imgUri="img/carousel/fiori_4.jpg"
+              title={
+                <p>
+                  Una finestra sul cortile,<br/>
+                  il tuo sguardo si riflette,<br/>
+                  nel verde dell’erica.
+                </p>
+              }
             />
           </div>
         </div>
