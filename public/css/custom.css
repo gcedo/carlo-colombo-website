@@ -33,13 +33,3 @@
   font-size: 18px;
   margin-top: 10px;
 }
-
-.CarouselItem__title span {
-  display: inline-block;
-  margin-top: 10px;
-  background-color: #111;
-  padding-right: 8px;
-  padding-left: 8px;
-}
-
-.CarouselItem__title p { margin: 0;}

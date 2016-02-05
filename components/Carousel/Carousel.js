@@ -16,35 +16,19 @@ class Carousel extends React.Component {
             <CarouselItem
               active
               imgUri="img/carousel/fiori.jpg"
-              title={<span>Una nuova vita, è in te.</span>}
+              title="Rimanevamo sospesi"
             />
             <CarouselItem
               imgUri="img/carousel/fiori_2.jpg"
-              title={
-                <p>
-                  Le parole, non servivano,<br/>
-                  sentivamo i battiti dei nostri cuori.
-                </p>
-              }
+              title="in un timido, lieve silenzio"
             />
             <CarouselItem
               imgUri="img/carousel/fiori_3.jpg"
-              title={
-                <p>
-                  Un sole,<br/>
-                  che riesce ancora a scaldare.
-                </p>
-              }
+              title="le parole non servivano"
             />
             <CarouselItem
               imgUri="img/carousel/fiori_4.jpg"
-              title={
-                <p>
-                  Una finestra sul cortile,<br/>
-                  il tuo sguardo si riflette,<br/>
-                  nel verde dell’erica.
-                </p>
-              }
+              title="sentivamo i battiti dei nostri cuori."
             />
           </div>
         </div>
